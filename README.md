@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Justin Cordero</h1>
 <h3 align="center">A U.S. Navy Veteran and Software Engineer based out of Virginia Beach, VA.</h3>
 
-- 🔭 I’m currently working on [CodeRoom](https://github.com/novemberplatoon/coderoom-frontend)
+- 🔭 I’m currently working on [CodeRoom](https://coderoom.us/)
 
 - 🌱 I’m currently learning **Web Sockets**
 
