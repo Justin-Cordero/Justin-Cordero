@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Justin Cordero</h1>
-<h3 align="center">A U.S. Navy Veteran and Software Engineer based out of Virginia Beach, VA.</h3>
+<h3 align="center">U.S. Navy Veteran and Software Engineer based out of Virginia Beach, VA.</h3>
 
-- 🔭 I’m currently working on [CodeRoom](https://coderoom.us/)
+- 🔭  I’m currently working on [CodeRoom](https://coderoom.us/)
 
-- 🌱 I’m currently learning **Web Sockets**
+- 🌱  I’m currently learning **Web Sockets**
 
-- 👨‍💻 Some of my projects are available at [https://justincordero.tech](https://justincordero.tech)
+- 👨‍ 💻 Some of my projects are available at [https://justincordero.tech](https://justincordero.tech)
 
-- 📝 I write articles on Medium at [https://justincordero.medium.com/](https://justincordero.medium.com/)
+- 📝  I write articles on Medium at [https://justincordero.medium.com/](https://justincordero.medium.com/)
 
-- 💬 Ask me about **React or Django**
+- 💬  Ask me about **React or Django**
 
-- 📫 How to reach me **justincordero@ymail.com**
+- 📫  How to reach me **justincordero@ymail.com**
 
-- 📄 Learn about my experience [https://justincordero.tech/Justin_Cordero_Resume.pdf](https://justincordero.tech/Justin_Cordero_Resume.pdf)
+- 📄  Learn about my experience [https://justincordero.tech/Justin_Cordero_Resume.pdf](https://justincordero.tech/Justin_Cordero_Resume.pdf)
 
 - ⚡ Fun fact **I love Brazilian Jiu-Jitsu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/justin-cordero-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="justin-cordero-tech" height="30" width="40" /></a>
-<a href="https://medium.com/@justincordero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@justincordero" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/justin-cordero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="justin-cordero" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/justin-cordero-tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/linked-in-alt.svg" alt="justin-cordero-tech" height="30" width="40" /></a>
+<a href="https://medium.com/@justincordero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/medium.svg" alt="@justincordero" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/justin-cordero" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/22064237dce9d9052582c108ace3c161b646dfd9/src/images/icons/Social/leet-code.svg" alt="justin-cordero" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
