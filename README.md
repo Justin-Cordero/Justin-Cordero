@@ -5,7 +5,7 @@
 
 - 🌱  I’m currently learning **Web Sockets**
 
-- 👨‍ 💻 Some of my projects are available at [https://justincordero.tech](https://justincordero.tech)
+- 💻 Some of my projects are available at [https://justincordero.tech](https://justincordero.tech)
 
 - 📝  I write articles on Medium at [https://justincordero.medium.com/](https://justincordero.medium.com/)
 
