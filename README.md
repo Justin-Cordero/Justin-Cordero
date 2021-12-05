@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin Cordero</h1>
 <h3 align="center">U.S. Navy Veteran and Software Engineer based out of Virginia Beach, VA.</h3>
 
-- 🔭  I’m currently working on [CodeRoom](https://coderoom.us/)
+- 🔭  I’m currently working as a Software Engineer for [ShopRunner](https://www.shoprunner.com/).
 
-- 🌱  I’m currently learning **Web Sockets**
+- 🌱  I’m currently learning **Tokenization**
 
 - 💻 Some of my projects are available at [https://justincordero.tech](https://justincordero.tech)
 
